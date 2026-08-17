@@ -951,10 +951,7 @@ pip install -r requirements.txt
 
 ## 📞 CONTACTO Y SOPORTE
 
-**Proyecto:** Museo Interactivo Herpetología
-**Universidad:** Universidad del Cauca
-**Repositorio:** https://github.com/farid3312/sala-herpetologia
-
+**gituhb:** https://github.com/Brandon-Ortega y https://github.com/farid3312
 ---
 
 ## 📝 NOTAS IMPORTANTES
