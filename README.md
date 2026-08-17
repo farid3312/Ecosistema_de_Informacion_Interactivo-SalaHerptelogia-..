@@ -13,10 +13,12 @@ El motor principal de persistencia es PostgreSQL. Se implementa un modelo híbri
 
 [👤 usuarios_admin]
      │
+     |
 [📋 especies] ──(1:N)──> [🏷️ ejemplares_museo] (Incluye datos_morfometricos JSONB + QR)
      │                       ├──(1:N)──> [💬 interacciones_chatbot]
      │                       └──(1:N)──> [📊 estadisticas_trivia]
      │
+     |
 [🚶 registro_visitantes]
 
 🗄️ Diccionario Relacional de Tablas Principales
